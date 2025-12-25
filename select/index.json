@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SNEAKERS",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-25T03:08:52.531976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers (Live Unplugged)",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/01_Hi-Heel_Sneakers_(Live_Unplugged)_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/02_Hi-Heel_Sneakers_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hi Heel Sneakers - Saturday Club / 1965",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/03_Hi_Heel_Sneakers_-_Saturday_Club___1965_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers",
+      "artist": "Cross Section",
+      "has_synced": true,
+      "path": "select/04_Hi-Heel_Sneakers_Cross_Section.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hi Heel Sneakers",
+      "artist": "Cross Section",
+      "has_synced": true,
+      "path": "select/05_Hi_Heel_Sneakers_Cross_Section.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Sneakers",
+      "artist": "The Push Stars",
+      "has_synced": true,
+      "path": "select/06_Bad_Sneakers_The_Push_Stars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Sneakers",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/07_Bad_Sneakers_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers",
+      "artist": "José Feliciano",
+      "has_synced": false,
+      "path": "select/08_Hi-Heel_Sneakers_José_Feliciano.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hi Heel Sneakers (Saturday Club \u0000 1965)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/09_Hi_Heel_Sneakers_(Saturday_Club_\u0000_1965)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High Heel Sneakers",
+      "artist": "Johnny Rivers",
+      "has_synced": false,
+      "path": "select/10_High_Heel_Sneakers_Johnny_Rivers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High Heel Sneakers",
+      "artist": "José Feliciano",
+      "has_synced": false,
+      "path": "select/11_High_Heel_Sneakers_José_Feliciano.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers",
+      "artist": "David Cassidy",
+      "has_synced": false,
+      "path": "select/12_Hi-Heel_Sneakers_David_Cassidy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/13_Hi-Heel_Sneakers_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hi Heel Sneakers",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/14_Hi_Heel_Sneakers_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hi-Heel Sneakers",
+      "artist": "Tommy Tucker",
+      "has_synced": false,
+      "path": "select/15_Hi-Heel_Sneakers_Tommy_Tucker.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High Heel Sneakers (Live In Paris/1965)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/16_High_Heel_Sneakers_(Live_In_Paris_1965)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Sneakers",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/17_Bad_Sneakers_Steely_Dan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SNEAKERS",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_SNEAKERS_ITZY.txt"
+    }
+  ]
+}
